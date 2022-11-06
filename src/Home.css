@@ -1,0 +1,17 @@
+.home__section {
+    display: flex;
+    padding: 30px;
+   
+  }
+  
+.image{
+  display: flex;
+  padding: 50px;
+  border-radius: 10px;
+  width: 50px;
+  background-size: auto;
+ 
+
+}  
+  
+  
