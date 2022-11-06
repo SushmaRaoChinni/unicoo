@@ -37,15 +37,6 @@ function Header() {
              < BsPersonCircle/>
             </div>
                 
-
-                
-                 
-                
-                
-                
-                
-                
-                
             </div>
         
     </div>
